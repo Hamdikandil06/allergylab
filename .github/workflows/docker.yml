@@ -1,4 +1,4 @@
-name: AllergyLab CI
+name: AllergyLab CICD
 
 on: [push]
 
